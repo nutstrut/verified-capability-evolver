@@ -87,4 +87,8 @@ ai-agents
 self-improvement  
 agent-safety  
 verification  
-automation  
+automation
+
+## Metadata
+
+Last updated: 2026-03-29
